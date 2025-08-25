@@ -26,6 +26,33 @@ const Footer = ()=>{
                         <li className='py-2 text-sm'>Insights</li>
                     </ul>
                 </div>
+                <div>
+                    <h6 className='font-medium text-gray-400'>Support</h6>
+                    <ul>
+                        <li className='py-2 text-sm'>pricing</li>
+                        <li className='py-2 text-sm'>Documnetation</li>
+                        <li className='py-2 text-sm'>Guides</li>
+                        <li className='py-2 text-sm'>API Status</li>
+                    </ul>
+                </div>
+                <div>
+                    <h6 className='font-medium text-gray-400'>Company</h6>
+                    <ul>
+                        <li className='py-2 text-sm'>About</li>
+                        <li className='py-2 text-sm'>Blogs</li>
+                        <li className='py-2 text-sm'>Jobs</li>
+                        <li className='py-2 text-sm'>Press</li>
+                        <li className='py-2 text-sm'>Careers</li>
+                    </ul>
+                </div>
+                <div>
+                    <h6 className='font-medium text-gray-400'>Legal</h6>
+                    <ul>
+                        <li className='py-2 text-sm'>Claim</li>
+                        <li className='py-2 text-sm'>Ploicy</li>
+                        <li className='py-2 text-sm'>Terms</li>
+                    </ul>
+                </div>
             </div>
         </div>
     )
